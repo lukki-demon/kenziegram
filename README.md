@@ -8,6 +8,6 @@ Para baixar os códigos na sua máquina, clique no botão verde escrito "Code", 
 
 ## Layout
 
-- [Kenziegram](./assets/img/layout.png)
+- [Kenziegram](./assets/img/kenziegram.png)
 
 Evento realizado nos dias 02 a 05 de Agosto de 2021.
